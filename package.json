@@ -1,6 +1,6 @@
 {
   "name": "my-spotify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "spotify interface",
   "main": "dist/index.js",
   "scripts": {
